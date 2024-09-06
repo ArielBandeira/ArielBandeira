@@ -18,9 +18,9 @@ Hi! I'm Ariel, a Software Quality Assurance Engineer at QAT Global | Custom Soft
 
 
 ## 📊Stats
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ArielBandeira&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+<!-- <p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=ArielBandeira&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p> -->
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBandeira&theme=highcontrast&show_icons=true&hide_border=false&layout=compact">
 </p>
