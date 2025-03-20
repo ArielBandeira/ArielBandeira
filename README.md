@@ -12,7 +12,8 @@
 </div>
 
 ## 👩🏻‍💻About Me
-Hi! I'm Ariel, a Software Quality Assurance Engineer currently improving the quality of the software solutions for our clients at QAT Global | Custom Software Development. With 5 years in the software development industry, I love creating automated testing solutions and collaborating with global teams to ensue high-quality software deliveries. A little bit about me is that I love the VW Beetle car, I drink too much coffe (so yes I will defend Java). I play DnD and my character is a cleric, basically the party's walking band-aid and moral compass. When I'm not talking about software quality you can find me playing with my dogs CJ, Glória Maria and Raimundo Neto.
+Hi! I'm Ariel, a Software Quality Assurance Engineer currently improving the quality of the software solutions for our clients at QAT Global | Custom Software Development. With 5 years in the software development industry, I love creating automated testing solutions and collaborating with global teams to ensue high-quality software deliveries. 
+A little bit about me is that I love the VW Beetle car, I drink too much coffe (so yes I will defend Java). I play DnD and my character is a cleric, basically the party's walking band-aid and moral compass. When I'm not talking about software quality you can find me playing with my dogs CJ, Glória Maria and Raimundo Neto.
 
 [![My Skills](https://skillicons.dev/icons?i=selenium,java,cypress,js,ts,scala,git,docker,kubernetes,idea,mysql,postman)](https://skillicons.dev)
 
